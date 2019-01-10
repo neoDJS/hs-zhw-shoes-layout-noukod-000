@@ -307,13 +307,13 @@ footer a {
 .col-1 {
   width: 650px;
   float: left;
-  margin-left: 10px;
+  margin-right: 15px;
 }
 
 .col-2 {
   width: 310px;
   float: left;
-  margin-left: 15px
+  margin-right: 15px
 }
 
 .col-3 {
