@@ -303,3 +303,17 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+.col-1 {
+  width: 450px;
+  float: left;
+}
+
+.col-2 {
+  width: 200px;
+  float: left;
+}
+
+.col-3 {
+  width: 120px;
+}
