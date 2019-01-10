@@ -323,3 +323,7 @@ footer a {
 .last {
   margin-right: 0;
 }
+
+.upMargin-10 {
+  margin-top: 10px;
+}
