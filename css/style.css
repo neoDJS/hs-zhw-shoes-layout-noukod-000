@@ -319,3 +319,7 @@ footer a {
 .col-3 {
   width: 310px;
 }
+
+.last {
+  margin-right: 0;
+}
