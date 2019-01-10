@@ -324,6 +324,6 @@ footer a {
   margin-right: 0;
 }
 
-.upMargin-10 {
-  margin-top: 10px;
+.upMargin-v {
+  margin-top: 10px 0;
 }
